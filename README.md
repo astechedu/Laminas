@@ -1,4 +1,4 @@
-# laminas-mvc-skeleton
+# laminas-mvc-skeleton with database config
 
 ## Introduction
 
